@@ -527,6 +527,11 @@ canvas {
     }
 }
 
+.lydia-dp {
+    width: 300px;
+    height: auto;
+}
+
 .prompt {
     position: absolute;
     top: 50%;
